@@ -24,7 +24,6 @@ Every concept has a separate Java file with clear code
 
 - **Java 
 - **VS Code 
-- **VS Code Terminal**
 
 ---
 
@@ -121,8 +120,7 @@ Create a new file named:
 VariablesDemo.java
 
 ### **Step 2: Declare the Class**
-Write:
-```java
+
 public class VariablesDemo {
 }
 
