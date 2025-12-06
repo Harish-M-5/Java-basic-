@@ -110,21 +110,21 @@ Run code
 
 ---
 
-## Procedue
+###  **Procedue**
 
-##  1️⃣ Variables Program – Procedure
+###  1️⃣ Variables Program – Procedure
 
-### **Step 1: Create a Java File**
+### Step 1: Create a Java File
 Create a new file named:
 
 VariablesDemo.java
 
-### **Step 2: Declare the Class**
+### Step 2: Declare the Class
 
 public class VariablesDemo {
 }
 
-Step 3: Declare Variables
+### Step 3: Declare Variables
 
 Inside main method declare:
 
@@ -139,13 +139,13 @@ boolean
 String
 
 
-Step 4: Print the Variables
+### Step 4: Print the Variables
 
 Use System.out.println() to display each value.
 
-Step 5: Run the Program
+### Step 5: Run the Program
 
-Use VS Code run button or:
+Use VS Code 
 
 javac VariablesDemo.java
 java VariablesDemo
@@ -153,17 +153,17 @@ java VariablesDemo
 
 ---
 
-2️⃣ Data Types Program – Procedure
+### 2️⃣ Data Types Program – Procedure
 
-Step 1: Create File
+### Step 1: Create File
 
 DataTypesDemo.java
 
-Step 2: Create Class & Main
+### Step 2: Create Class & Main
 
 Start Java file with class + main method.
 
-Step 3: Declare Every Data Type
+### Step 3: Declare Every Data Type
 
 Include:
 
@@ -186,33 +186,33 @@ boolean
 String
 
 
-Step 4: Print Each Data Type
+### Step 4: Print Each Data Type
 
 Print values to understand memory & format.
 
-Step 5: Execute the Program
+### Step 5: Execute the Program
 
 Compile & run using  VS Code.
 
 
 ---
 
-3️⃣ Operators Program – Procedure
+### 3️⃣ Operators Program – Procedure
 
-Step 1: Create File
+### Step 1: Create File
 
 OperatorsDemo.java
 
-Step 2: Create Class + Main Method
+### Step 2: Create Class + Main Method
 
-Step 3: Declare Example Variables
+### Step 3: Declare Example Variables
 
 Use two numbers:
 
 int a = 10;
 int b = 5;
 
-Step 4: Apply Operators
+### Step 4: Apply Operators
 
 Include:
 
@@ -225,22 +225,22 @@ Relational (>, <, ==, !=)
 
 Print each result.
 
-Step 5: Run & Observe Output
+### Step 5: Run & Observe Output
 
 Check how operators behave with different values.
 
 
 ---
 
-4️⃣ Conditional Statements – Procedure
+### 4️⃣ Conditional Statements – Procedure
 
-Step 1: Create File
+### Step 1: Create File
 
 ConditionsDemo.java
 
-Step 2: Write Class + Main Method
+### Step 2: Write Class + Main Method
 
-Step 3: Declare Input Value
+### Step 3: Declare Input Value
 
 Example:
 
@@ -259,28 +259,28 @@ else
 switch
 
 
-Step 5: Run Program
+### Step 5: Run Program
 
 Observe which block executes based on conditions.
 
 
 ---
 
-5️⃣ Loops Program – Procedure
+### 5️⃣ Loops Program – Procedure
 
-Step 1: Create File
+### Step 1: Create File
 
 LoopsDemo.java
 
-Step 2: Create Class + Main Method
+### Step 2: Create Class + Main Method
 
-Step 3: Declare Loop Limits
+### Step 3: Declare Loop Limits
 
 Example:
 
 int i = 1;
 
-Step 4: Write All Loop Types
+### Step 4: Write All Loop Types
 
 Include:
 
@@ -291,26 +291,26 @@ while loop
 do-while loop
 
 
-Step 5: Run & Observe Iteration
+### Step 5: Run & Observe Iteration
 
 Understand how loops repeat tasks.
 
 
 ---
 
-6️⃣ Arrays Program – Procedure
+### 6️⃣ Arrays Program – Procedure
 
-Step 1: Create File
+### Step 1: Create File
 
 ArraysDemo.java
 
-Step 2: Write Class + Main Method
+### Step 2: Write Class + Main Method
 
-Step 3: Create an Array
+### Step 3: Create an Array
 
 int[] numbers = {10, 20, 30, 40};
 
-Step 4: Print Array Elements
+### Step 4: Print Array Elements
 
 Use:
 
@@ -319,26 +319,26 @@ for loop
 for-each loop
 
 
-Step 5: Run Program
+### Step 5: Run Program
 
 Understand how arrays store multiple values.
 
 
 ---
 
-7️⃣ Strings Program – Procedure
+### 7️⃣ Strings Program – Procedure
 
-Step 1: Create File
+### Step 1: Create File
 
 StringsDemo.java
 
-Step 2: Create Class + Main Method
+### Step 2: Create Class + Main Method
 
-Step 3: Declare Strings
+### Step 3: Declare Strings
 
 String name = "Harish";
 
-Step 4: Apply String Methods
+### Step 4: Apply String Methods
 
 Use:
 
@@ -355,7 +355,7 @@ contains()
 equals()
 
 
-Step 5: Run Program
+### Step 5: Run Program
 
 Check how string manipulation works.
 
